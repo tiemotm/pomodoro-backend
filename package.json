@@ -1,0 +1,22 @@
+{
+  "name": "pomodoro-backend",
+  "version": "1.0.0",
+  "description": "Pomodoro NodeJS Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiemotm/pomodoro-backend.git"
+  },
+  "author": "Tiemo Timtschenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiemotm/pomodoro-backend/issues"
+  },
+  "homepage": "https://github.com/tiemotm/pomodoro-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
